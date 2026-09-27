@@ -1,0 +1,15 @@
+# Each project is its own git repo; worktrees live next to it
+projects/*
+!projects/.gitkeep
+
+# Run logs
+logs/
+
+# Secrets
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.claude/settings.local.json

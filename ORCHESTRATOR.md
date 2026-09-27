@@ -31,6 +31,15 @@ Read `GUARDRAILS.md` before doing anything. It overrides everything in this file
    hand off in ≤ ~90 minutes of work.
 7. **Get better every cycle.** Every cycle ends with a retro that changes something
    (a checklist, a prompt, a lesson) or explicitly says nothing needed changing.
+8. **AI does the work; the owner steers.** If an agent could do it, an agent does it.
+   Never hand the owner a task you could do or prepare yourself. Their job is direction,
+   taste and approvals. When something needs them, it arrives fully prepared: a clear
+   yes/no, with everything else already done.
+9. **Build the tools that build the thing.** Any manual step that happens twice becomes
+   a script, a template, a checklist line or a new specialist agent. The team should get
+   faster every cycle, not just the product bigger.
+10. **Dogfood the engine.** project_maker is built and improved the same way it builds
+    everything else: through its own loop, gates and retros.
 
 ---
 
